@@ -1,0 +1,15 @@
+M:\PV 2022-23\PV0711\PV0711\bin\Debug\net6.0\PV0711.exe
+M:\PV 2022-23\PV0711\PV0711\bin\Debug\net6.0\PV0711.deps.json
+M:\PV 2022-23\PV0711\PV0711\bin\Debug\net6.0\PV0711.runtimeconfig.json
+M:\PV 2022-23\PV0711\PV0711\bin\Debug\net6.0\PV0711.dll
+M:\PV 2022-23\PV0711\PV0711\bin\Debug\net6.0\PV0711.pdb
+M:\PV 2022-23\PV0711\PV0711\obj\Debug\net6.0\PV0711.csproj.AssemblyReference.cache
+M:\PV 2022-23\PV0711\PV0711\obj\Debug\net6.0\PV0711.GeneratedMSBuildEditorConfig.editorconfig
+M:\PV 2022-23\PV0711\PV0711\obj\Debug\net6.0\PV0711.AssemblyInfoInputs.cache
+M:\PV 2022-23\PV0711\PV0711\obj\Debug\net6.0\PV0711.AssemblyInfo.cs
+M:\PV 2022-23\PV0711\PV0711\obj\Debug\net6.0\PV0711.csproj.CoreCompileInputs.cache
+M:\PV 2022-23\PV0711\PV0711\obj\Debug\net6.0\PV0711.dll
+M:\PV 2022-23\PV0711\PV0711\obj\Debug\net6.0\refint\PV0711.dll
+M:\PV 2022-23\PV0711\PV0711\obj\Debug\net6.0\PV0711.pdb
+M:\PV 2022-23\PV0711\PV0711\obj\Debug\net6.0\PV0711.genruntimeconfig.cache
+M:\PV 2022-23\PV0711\PV0711\obj\Debug\net6.0\ref\PV0711.dll
